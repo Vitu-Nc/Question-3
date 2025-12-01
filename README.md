@@ -23,8 +23,6 @@ The redesigned version includes **three complete screens**:
 2. **Product Listing Page (Catalog)**  
 3. **Product Details Page**
 
----
-
 Objectives
 - Apply **Nielsen’s 10 Usability Heuristics**  
 - Improve usability and structure  
@@ -33,8 +31,6 @@ Objectives
 - Implement a working **interactive prototype**  
 - Provide before/after comparison  
 - Demonstrate understanding of HCI principles  
-
----
 
 Screens Included
 All screens were created in **Adobe XD**, using 1920×1080 artboards.
